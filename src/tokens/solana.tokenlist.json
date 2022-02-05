@@ -100742,6 +100742,18 @@
         "twitter": "https://twitter.com/aos_NFT",
         "website": "https://apeson.space"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GG3gVKEb9K48aSYkYvMmBLU9HaCUkLKxeC4c8oZuJG2W",
+      "symbol": "SCP",
+      "name": "SCP FanClub",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SCPUk/SportingToken/main/SCP.png",
+      "tags": [
+        "utility-token"
+      
+      ]
     }
   ],
   "version": {
